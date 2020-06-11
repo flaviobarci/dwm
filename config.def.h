@@ -7,8 +7,8 @@ static const int showbar             = 1;        /* 0 means no bar */
 static const int topbar              = 1;        /* 0 means bottom bar */
 static const int horizpadbar         = 2;        /* horizontal padding for statusbar */
 static const int vertpadbar          = 10;        /* vertical padding for statusbar */
-static const char *fonts[]           = { "SF Mono Powerline:style=Medium:size=11:antialias=true:hinting=true:hintstyle=hintfull", "SauceCodePro Nerd Font Mono:pixelsize=11:antialias=true:autohint=true" };
-static const char dmenufont[]        = "SF Mono Powerline:style=Medium:size=11:antialias=true:hinting=true:hintstyle=hintfull";
+static const char *fonts[]           = { "SF Mono Powerline:style=Medium:size=11:antialias=true:hinting=true:hintstyle=hintslight", "SauceCodePro Nerd Font Mono:pixelsize=11:antialias=true:hintstyle=hintslight" };
+static const char dmenufont[]        = "SF Mono Powerline:style=Medium:size=11:antialias=true:hinting=true:hintstyle=hintslight";
 static const char col_gray1[]        = "#030303";
 static const char col_gray2[]        = "#631dad";
 static const char col_gray3[]        = "#ffffff";
